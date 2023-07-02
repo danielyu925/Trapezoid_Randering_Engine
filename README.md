@@ -4,6 +4,6 @@ A Trapezoid Rendering Engine (TRE) performs calculations on trapezoidal renderin
 
 <img src="/File/figure/trapezoid_example.png">
 
-In this design, we used the multiplier instead of the divider to calculate the boundary coordinate. Using the multiplier decreases the design area and saves power. 
+In this design, we used the multiplier instead of the divider to calculate the line equation ax + by = c. And further to get the boundary x coordinate with the corporate y coordinate. Using the multiplier decreases the design area and saves power. 
 
 The clock period of the TRE is 8.2 (ns). The total area is 24603.81257 (um^2). The dynamic power is 0.7302462(mW), and the static power is 0.022291(mW). 
